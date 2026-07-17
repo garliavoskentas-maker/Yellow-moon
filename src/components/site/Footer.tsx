@@ -8,9 +8,7 @@ export function Footer() {
       <div className="container-x py-20">
         <div className="grid gap-12 md:grid-cols-4">
           <div className="md:col-span-1">
-            <span className="inline-flex items-center justify-center rounded-2xl bg-white px-2 py-1.5 shadow-lg shadow-black/30">
-              <img src={logo} alt="Yellow Moon logotipas" className="h-32 w-auto" />
-            </span>
+            <img src={logo} alt="Yellow Moon logotipas" className="h-32 w-auto" />
             <div className="mt-6 flex gap-3">
               <a
                 href={socials.facebook}
@@ -64,7 +62,7 @@ export function Footer() {
         </div>
 
         <div className="mt-16 border-t border-white/10 pt-6 text-xs text-muted-foreground">
-          <p>© 2026 Yellow Moon. All rights reserved.</p>
+          <p>© 2026 Yellow Moon. Visos teisės saugomos.</p>
         </div>
       </div>
     </footer>

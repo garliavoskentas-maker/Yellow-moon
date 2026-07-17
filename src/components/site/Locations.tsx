@@ -58,7 +58,7 @@ function OrderCard({ loc }: { loc: Location }) {
           className="btn-ghost text-sm"
         >
           <MapPin className="h-4 w-4" />
-          Maps
+          Nuvykti
         </a>
       </div>
     </div>

@@ -5,7 +5,7 @@ const items = [
     icon: Star,
     title: "4,7 / 5",
     subtitle: "Google įvertinimas",
-    detail: "350+ Google atsiliepimų",
+    detail: "350+ atsiliepimų abiejose lokacijose",
   },
   {
     icon: Flame,
